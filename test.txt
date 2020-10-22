@@ -1,2 +1,5 @@
 Hi this is a new way to creat git local repo/file and 
 also clone it from my githup repo
+
+I want to update this file.
+Now I just update!
