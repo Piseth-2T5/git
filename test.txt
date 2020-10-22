@@ -1,1 +1,2 @@
-
+Hi this is a new way to creat git local repo/file and 
+also clone it from my githup repo
