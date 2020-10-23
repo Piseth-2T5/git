@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # git
 
 message: 1st change!
@@ -8,3 +9,6 @@ message: 3rd change!
 1:26 AM
 #git 
 #don't forget to click subscribe and ring buttom for more video; Thank you! 
+=======
+# git
+>>>>>>> parent of d15d533 (readme verson 1)
